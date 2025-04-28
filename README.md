@@ -56,9 +56,12 @@
 
 ### 🚀 Future Goals
 - 🌟 Secure a **Data Science Internship** by second year  
-- 📊 Participate in **Kaggle Competitions** and **Open Source Projects**  
-- 🤖 Dive into **Deep Learning** with **TensorFlow** and **PyTorch**  
-- 🎓 Earn certifications like **Google Data Analytics** and **IBM Data Science Professional**  
+- 🚀 Participate actively in **Hackathons**, **Datathons**, and **Coding Competitions**  
+- 📊 Build and publish impactful **Data Science** and **Machine Learning** projects  
+- 🤖 Start exploring **Deep Learning** with **TensorFlow** and **PyTorch**  
+- 🌍 Contribute to **Open Source** and **Data Science Communities**  
+- 🥇 Aim to win or rank in **Hackathons** and **Kaggle Competitions**   
+
 
 ---
 
@@ -69,14 +72,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=dracula" alt="Abhi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiGupta1310&theme=dracula" alt="Abhi's GitHub streak" />
-</p>
-
----
 
 # 🧩 *Analyzing today, Predicting tomorrow!*
 
