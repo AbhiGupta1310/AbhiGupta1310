@@ -66,15 +66,9 @@
 ---
 
 ### 🌟 Let's Connect!
-
-- [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/abhi-gupta-data-science/)
-- Portfolio Website (Coming Soon!)
-- [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.svg/24px-Gmail_Icon.svg.png)](mailto:iamabhids@example.com)
-
-### 🌟 Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-gupta-data-science/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabhids@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#) ---
+- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 ---
 
