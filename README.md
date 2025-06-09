@@ -66,9 +66,11 @@
 ---
 
 ### 🌟 Let's Connect!
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/abhi-gupta-data-science/)
-- [Portfolio Website](#)(Coming Soon!)
-- 📧 [Email Me](mailto:iamabhids@example.com) <!-- Replace with your email -->
+
+- [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/abhi-gupta-data-science/) [LinkedIn](https://www.linkedin.com/in/abhi-gupta-data-science/)
+- Portfolio Website (Coming Soon!)
+- [![Email](https://cdn-icons-png.flaticon.com/24/561/561127.png)](mailto:iamabhids@example.com) [Email Me](mailto:iamabhids@example.com)
+!-- Replace with your email -->
 
 ---
 
