@@ -67,8 +67,8 @@
 
 ### 🌟 Let's Connect!
 - [LinkedIn](#) <!-- Replace # with your LinkedIn link -->
-- [Portfolio Website](#) (Coming Soon!)
-- 📧 [Email Me](mailto:abhigupta5064@example.com) <!-- Replace with your email -->
+- [Portfolio Website](https://www.linkedin.com/in/abhi-gupta-data-science/) (Coming Soon!)
+- 📧 [Email Me](mailto:iamabhids@example.com) <!-- Replace with your email -->
 
 ---
 
