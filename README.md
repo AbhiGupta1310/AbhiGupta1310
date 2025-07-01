@@ -20,7 +20,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 First-year Computer Science student passionate about **Data Science** and **AI**  
+- 🎓 Computer Science student passionate about **Data Science** and **AI**  
 - 🔍 Love exploring datasets, building predictive models, and visualizing insights  
 - 💡 Learning **Machine Learning**, **Statistics**, and **Data Analysis** techniques  
 - 🚀 Dreaming to become a **top Data Scientist** solving real-world problems  
