@@ -55,7 +55,6 @@
 ---
 
 ### 🚀 Future Goals
-- 🌟 Secure a **Data Science Internship** by second year  
 - 🚀 Participate actively in **Hackathons**, **Datathons**, and **Coding Competitions**  
 - 📊 Build and publish impactful **Data Science** and **Machine Learning** projects  
 - 🤖 Start exploring **Deep Learning** with **TensorFlow** and **PyTorch**  
