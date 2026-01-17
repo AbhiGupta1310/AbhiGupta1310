@@ -75,12 +75,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiGupta1310&theme=radical" alt="contribution graph"/>
 </div>
 
-<h6 align="center">🐍 Contribution Snake</h6>
+<h6 align="center">Contribution Activity (Pac-Man)</h6>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+       src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
 </picture>
 
 <h6 align="center">🤝 Connect With Me</h6>
