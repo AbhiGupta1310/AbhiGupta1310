@@ -1,4 +1,5 @@
 # Hi there, I'm Abhi 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+Engineer;NLP+Enthusiast;FastAPI+Developer)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
