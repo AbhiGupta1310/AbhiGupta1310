@@ -176,7 +176,7 @@ class DataScientist:
 
 ---
 
-### 🐍 **Contribution Snake**
+### **Contributions Pacman**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
