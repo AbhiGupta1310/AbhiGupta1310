@@ -75,16 +75,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiGupta1310&theme=radical" alt="contribution graph"/>
 </div>
 
-<h6 align="center">Contribution Activity (Pac-Man)</h6>
+<h6 align="center">Contributions Pacman</h6>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-       src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 <h6 align="center">🤝 Connect With Me</h6>
 
@@ -132,13 +131,6 @@
 - 🧠 Mastering LLM orchestration patterns
 - 🚀 Contributing to AI/ML open-source projects
 - 📚 Exploring advanced NLP architectures
-
-**2025 Goals:**
-
-- ✅ Build 5+ AI-powered applications
-- ✅ Contribute to major ML frameworks
-- ✅ Publish technical blog posts
-- ✅ Participate in AI hackathons
 
 </details>
 
