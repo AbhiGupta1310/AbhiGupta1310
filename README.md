@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abhi
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+Engineer;NLP+Enthusiast;FastAPI+Developer;RAG+Systems+Builder)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Data+Scientist;AI+Engineer;NLP+Enthusiast;FastAPI+Developer;RAG+Systems+Builder)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,7 +25,7 @@
 
 - 🎓 Computer Science student focused on **Data Science**, **AI Engineering**, and **LLM systems**
 - 🔍 Build intelligent systems combining **ML, NLP, and Retrieval**
-- 💡 Strong interest in **RAG pipelines**, **LLM tooling**, and **AI backends**
+- 💡 Strong interest in **RAG pipelines**, **MCP-style context control**, and **AI backends**
 - 🚀 Aspiring **AI Engineer / Applied Data Scientist** solving real-world problems at scale
 
 ---
@@ -33,22 +33,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGupta1310&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGupta1310&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
+
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhiGupta1310&theme=radical)
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity (Year-Wise)
+
+![Yearly Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhiGupta1310&theme=radical&utcOffset=5.5)
+
+![Yearly Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiGupta1310&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiGupta1310&theme=react-dark)
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Optional)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -84,17 +90,17 @@
 - Vector embeddings
 - Similarity search
 - Context-aware LLM responses
-- Evaluation of hallucinations
+- Hallucination mitigation & evaluation
 
 **Tools & Concepts:**  
 `FAISS` | `Vector Databases` | `Embeddings` | `LLM Orchestration`
 
 ### 🧠 MCP (Model Context Protocol)
 
-- Structured context injection for LLMs
+- Structured context injection
 - Tool & memory orchestration
 - Multi-step reasoning workflows
-- Standardized AI-agent communication
+- Standardized agent communication
 
 ### 🚀 Backend & AI Deployment
 
@@ -120,10 +126,10 @@
 ## 🎯 Currently Focusing On
 
 - Building **RAG-based AI applications**
-- Designing **LLM pipelines with MCP-style context control**
+- Designing **LLM pipelines with MCP**
 - End-to-end **NLP + FastAPI deployments**
 - Improving **SQL & data modeling**
-- Writing cleaner, production-ready ML code
+- Writing production-ready ML systems
 
 ---
 
@@ -132,7 +138,7 @@
 - 🚀 Build production-grade **LLM & RAG systems**
 - 📊 Publish real-world **AI engineering projects**
 - 🤖 Advance in **Deep Learning & Applied LLMs**
-- 🌍 Contribute to **Open Source AI tools**
+- 🌍 Contribute to **Open-Source AI tools**
 - 🥇 Compete in **Hackathons & Kaggle (ML + NLP)**
 
 ---
