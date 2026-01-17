@@ -1,82 +1,152 @@
-# Hi there, I'm Abhi 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+Engineer;NLP+Enthusiast;FastAPI+Developer)
+# 👋 Hi there, I'm Abhi
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+Engineer;NLP+Enthusiast;FastAPI+Developer;RAG+Systems+Builder)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=data-bricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocols&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Computer Science student passionate about **Data Science** and **AI**  
-- 🔍 Love exploring datasets, building predictive models, and visualizing insights  
-- 💡 Learning **Machine Learning**, **Statistics**, and **Data Analysis** techniques  
-- 🚀 Dreaming to become a **top Data Scientist** solving real-world problems  
+## 🧠 About Me
+
+- 🎓 Computer Science student focused on **Data Science**, **AI Engineering**, and **LLM systems**
+- 🔍 Build intelligent systems combining **ML, NLP, and Retrieval**
+- 💡 Strong interest in **RAG pipelines**, **LLM tooling**, and **AI backends**
+- 🚀 Aspiring **AI Engineer / Applied Data Scientist** solving real-world problems at scale
 
 ---
 
-### 📚 Technologies & Tools
+## 📊 GitHub Stats
 
-**Programming Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGupta1310&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiGupta1310&theme=react-dark)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📚 Technologies & Tools
+
+### 🧑‍💻 Programming Languages
+
 `Python` | `Java` | `SQL`
 
-**Data Science & Machine Learning**  
-`NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-Learn`
+### 📊 Data Science & Machine Learning
 
-**Databases**  
-`PostgreSQL` | `MySQL` | `MongoDB`
+`NumPy` | `Pandas` | `Matplotlib` | `Seaborn`  
+`Scikit-Learn` | `TensorFlow`  
+`Statistics` | `Feature Engineering`
 
-**Web Development Basics**  
-`HTML5` | `CSS3` | `Tailwind CSS` | `JavaScript` | `React.js` | `Node.js` | `Express.js`
+### 🗣️ NLP & LLMs
 
-**Version Control**  
+`Text Preprocessing` | `TF-IDF` | `Word Embeddings`  
+`Transformers (Basics)` | `Prompt Engineering`
+
+### 🔎 Retrieval-Augmented Generation (RAG)
+
+- Document ingestion & chunking
+- Vector embeddings
+- Similarity search
+- Context-aware LLM responses
+- Evaluation of hallucinations
+
+**Tools & Concepts:**  
+`FAISS` | `Vector Databases` | `Embeddings` | `LLM Orchestration`
+
+### 🧠 MCP (Model Context Protocol)
+
+- Structured context injection for LLMs
+- Tool & memory orchestration
+- Multi-step reasoning workflows
+- Standardized AI-agent communication
+
+### 🚀 Backend & AI Deployment
+
+`FastAPI` | `Pydantic` | `REST APIs`  
+`Model Serving` | `LLM APIs`
+
+### 🗄️ Databases
+
+`PostgreSQL` | `MySQL` | `MongoDB`  
+`Vector Databases (Basics)`
+
+### 🌐 Web Development
+
+`HTML5` | `CSS3` | `Tailwind CSS`  
+`JavaScript` | `React.js` | `Node.js` | `Express.js`
+
+### 🔁 Version Control
+
 `Git` | `GitHub`
 
 ---
 
-### 🎯 Currently Focusing On
-- Building a strong foundation in **Mathematics**, **Statistics**, and **Machine Learning**  
-- Hands-on **Data Analysis** and **ML** projects  
-- Improving **SQL** skills for data management  
-- Exploring end-to-end **ML model deployment**  
+## 🎯 Currently Focusing On
+
+- Building **RAG-based AI applications**
+- Designing **LLM pipelines with MCP-style context control**
+- End-to-end **NLP + FastAPI deployments**
+- Improving **SQL & data modeling**
+- Writing cleaner, production-ready ML code
 
 ---
 
-### 🚀 Future Goals
-- 🚀 Participate actively in **Hackathons**, **Datathons**, and **Coding Competitions**  
-- 📊 Build and publish impactful **Data Science** and **Machine Learning** projects  
-- 🤖 Start exploring **Deep Learning** with **TensorFlow** and **PyTorch**  
-- 🌍 Contribute to **Open Source** and **Data Science Communities**  
-- 🥇 Aim to win or rank in **Hackathons** and **Kaggle Competitions**   
+## 🚀 Future Goals
 
+- 🚀 Build production-grade **LLM & RAG systems**
+- 📊 Publish real-world **AI engineering projects**
+- 🤖 Advance in **Deep Learning & Applied LLMs**
+- 🌍 Contribute to **Open Source AI tools**
+- 🥇 Compete in **Hackathons & Kaggle (ML + NLP)**
 
 ---
 
-### 🌟 Let's Connect!
+## 🌟 Let's Connect!
+
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-gupta-data-science/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabhids@gmail.com)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 ---
 
-Thanks for visiting! Don't forget to ⭐ my repositories if you find them helpful!
-
+⭐ Thanks for visiting! Don’t forget to star my repositories if you find them helpful.
 
 ---
 
-
-# 🧩 *Analyzing today, Predicting tomorrow!*
-
+### 🧩 _Analyzing today, Predicting tomorrow!_
