@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Abhi Gupta
+# Abhi Gupta
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Building+RAG+Systems+%26+LLM+Pipelines;NLP+Enthusiast+%7C+FastAPI+Developer;Turning+Data+into+Intelligence)](https://git.io/typing-svg)
 
@@ -154,12 +154,12 @@ class DataScientist:
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGupta1310&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbhiGupta1310&layout=compact&theme=transparent&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=AbhiGupta1310&theme=radical&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
+  <img src="https://streak-stats.demolab.com?user=AbhiGupta1310&theme=transparent&hide_border=true" />
 </div>
 
 ---
@@ -170,7 +170,7 @@ class DataScientist:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiGupta1310&theme=radical)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AbhiGupta1310&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=AbhiGupta1310&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true) -->
 
 </div>
 
@@ -179,27 +179,42 @@ class DataScientist:
 ### 🐍 **Contribution Snake**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+       src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
 </picture>
-
 ---
 
-### 🎯 **2025 Roadmap**
+### 🧭 LLM Systems Engineering Path
+
+_Building scalable RAG, agent-based, and cloud-native AI systems_
 
 ```mermaid
 graph LR
-    A[Build RAG Systems] --> B[Deploy LLM APIs]
-    B --> C[Master NLP]
-    C --> D[Open Source Contributions]
-    D --> E[AI Engineer Role]
+    A[Foundations<br/>Python · ML · NLP] --> B[RAG Systems]
+    B --> C[Vector Databases<br/>FAISS · Chroma · Pinecone]
+    C --> D[AI Assistants & Chatbots]
+    D --> E[AI Agents<br/>LangGraph · Tools · Memory]
+    E --> F[Deep Learning & NLP<br/>spaCy · Transformers]
+    F --> G[Scalable AI<br/>PySpark · Data Pipelines]
+    G --> H[Cloud & Deployment<br/>FastAPI · GCP]
+    H --> I[Open Source & Research]
+    I --> J[AI Engineer / Applied Scientist]
 
     style A fill:#00f7ff,stroke:#00f7ff,color:#000
     style B fill:#00f7ff,stroke:#00f7ff,color:#000
     style C fill:#00f7ff,stroke:#00f7ff,color:#000
     style D fill:#00f7ff,stroke:#00f7ff,color:#000
-    style E fill:#ff006e,stroke:#ff006e,color:#fff
+    style E fill:#00f7ff,stroke:#00f7ff,color:#000
+    style F fill:#00f7ff,stroke:#00f7ff,color:#000
+    style G fill:#00f7ff,stroke:#00f7ff,color:#000
+    style H fill:#00f7ff,stroke:#00f7ff,color:#000
+    style I fill:#00f7ff,stroke:#00f7ff,color:#000
+    style J fill:#ff006e,stroke:#ff006e,color:#fff
+
 ```
 
 **Current Sprint:**
