@@ -217,20 +217,13 @@ graph LR
 
 ```
 
-**Current Sprint:**
+### ⚙️ What I’m Actively Engineering
 
-- ✅ Building production-grade RAG pipelines
-- ✅ Mastering LangGraph for agent workflows
-- ✅ Advanced NLP with Spacy
-- ✅ End-to-end NLP + FastAPI deployments
-- ✅ Designing LLM orchestration with MCP
-
-**Future Milestones:**
-
-- 🎯 Publish AI engineering projects
-- 🎯 Contribute to Open-Source AI tools
-- 🎯 Compete in ML/NLP Hackathons
-- 🎯 Deep Learning & Applied LLMs mastery
+- 🧠 Architecting **production-grade RAG systems** (retrieval, grounding, evaluation)
+- 🧩 Designing **agent workflows with LangGraph** (tools, memory, control flow)
+- 🗣️ Pushing **NLP beyond basics** using spaCy for real-world text pipelines
+- 🚀 Shipping **end-to-end NLP APIs** with FastAPI (model → service → user)
+- 🧬 Orchestrating **LLM context & tools** using MCP-style patterns
 
 ---
 
