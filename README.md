@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋%20I%20am%20Abhi&animation=twinkling&fontAlignY=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World!%20🚀&fontAlignY=32&desc=I'm%20Abhi%20—%20Building%20the%20Future%20with%20Data&descAlignY=60&descSize=26"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Building+RAG+Systems+%26+LLM+Pipelines;NLP+Enthusiast+%7C+FastAPI+Developer;Turning+Data+into+Intelligence)](https://git.io/typing-svg)
