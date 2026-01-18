@@ -1,6 +1,8 @@
 <div align="center">
 
-# Abhi Gupta
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey!%20I'm%20Abhi&desc=Data%20Science%20|%20AI%20|%20Learning%20Everyday&descAlignY=55&descSize=24&animation=twinkling"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Building+RAG+Systems+%26+LLM+Pipelines;NLP+Enthusiast+%7C+FastAPI+Developer;Turning+Data+into+Intelligence)](https://git.io/typing-svg)
 
