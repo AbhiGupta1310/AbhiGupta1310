@@ -194,7 +194,7 @@ _Building scalable RAG, agent-based, and cloud-native AI systems_
 
 ```mermaid
 graph LR
-    A[Foundations<br/>Python · ML · NLP] --> B[RAG Systems]
+    A[Python · ML · NLP] --> B[RAG Systems]
     B --> C[Vector Databases<br/>FAISS · Chroma · Pinecone]
     C --> D[AI Assistants & Chatbots]
     D --> E[AI Agents<br/>LangGraph · Tools · Memory]
