@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 **About Me**
+### **About Me**
 
 ```python
 class DataScientist:
@@ -45,28 +45,28 @@ class DataScientist:
 
 ---
 
-### 🎯 **What I'm Building**
+### **What I'm Building**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🧠 **AI & Machine Learning**
+#### **AI & Machine Learning**
 
-- 🔍 **RAG Pipelines** - Document ingestion, vector search, context-aware responses
-- 🤖 **NLP Systems** - Text processing, embeddings, transformer models
-- 📊 **ML Models** - Classification, regression, feature engineering
-- 🎨 **LLM Applications** - Prompt engineering, hallucination mitigation
+- **RAG Pipelines** - Document ingestion, vector search, context-aware responses
+- **NLP Systems** - Text processing, embeddings, transformer models
+- **ML Models** - Classification, regression, feature engineering
+- **LLM Applications** - Prompt engineering, hallucination mitigation
 
 </td>
 <td width="50%">
 
 #### ⚡ **Backend & Deployment**
 
-- 🚀 **FastAPI Services** - RESTful APIs, Pydantic validation
-- 🗄️ **Database Design** - SQL, NoSQL, vector databases
-- 🔧 **Model Serving** - LLM APIs, MCP orchestration
-- 📡 **Production Systems** - Scalable AI backends
+- **FastAPI Services** - RESTful APIs, Pydantic validation
+- **Database Design** - SQL, NoSQL, vector databases
+- **Model Serving** - LLM APIs, MCP orchestration
+- **Production Systems** - Scalable AI backends
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ class DataScientist:
 
 ---
 
-### 🛠️ **Tech Arsenal**
+### **Tech Arsenal**
 
 <details open>
 <summary><b>💻 Languages & Core</b></summary>
@@ -90,7 +90,7 @@ class DataScientist:
 </details>
 
 <details open>
-<summary><b>🧠 Data Science & ML</b></summary>
+<summary><b>Data Science & ML</b></summary>
 <br>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -103,7 +103,7 @@ class DataScientist:
 </details>
 
 <details open>
-<summary><b>🗣️ NLP & LLM Stack</b></summary>
+<summary><b>NLP & LLM Stack</b></summary>
 <br>
 
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
@@ -117,7 +117,7 @@ class DataScientist:
 </details>
 
 <details open>
-<summary><b>⚡ Backend & Frameworks</b></summary>
+<summary><b>Backend & Frameworks</b></summary>
 <br>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -130,7 +130,7 @@ class DataScientist:
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -141,7 +141,7 @@ class DataScientist:
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Platform</b></summary>
+<summary><b>Tools & Platform</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
