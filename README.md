@@ -153,7 +153,7 @@ class DataScientist:
 
 ---
 
-### 📊 **GitHub Analytics**
+### **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=transparent&hide_border=true" height="170" />
@@ -166,7 +166,7 @@ class DataScientist:
 
 ---
 
-### 📈 **Contribution Journey**
+### **Contribution Journey**
 
 <div align="center">
 
@@ -190,7 +190,7 @@ class DataScientist:
 </picture>
 ---
 
-### 🧭 LLM Systems Engineering Path
+### LLM Systems Engineering Path
 
 _Building scalable RAG, agent-based, and cloud-native AI systems_
 
@@ -219,25 +219,27 @@ graph LR
 
 ```
 
-### ⚙️ What I’m Actively Engineering
+### What I’m Actively Engineering
 
-- 🧠 Architecting **production-grade RAG systems** (retrieval, grounding, evaluation)
-- 🧩 Designing **agent workflows with LangGraph** (tools, memory, control flow)
-- 🗣️ Pushing **NLP beyond basics** using spaCy for real-world text pipelines
-- 🚀 Shipping **end-to-end NLP APIs** with FastAPI (model → service → user)
-- 🧬 Orchestrating **LLM context & tools** using MCP-style patterns
+- Architecting **production-grade RAG systems** (retrieval, grounding, evaluation)
+- Designing **agent workflows with LangGraph** (tools, memory, control flow)
+- Pushing **NLP beyond basics** using spaCy for real-world text pipelines
+- Shipping **end-to-end NLP APIs** with FastAPI (model → service → user)
+- Orchestrating **LLM context & tools** using MCP-style patterns
 
 ---
 
-### 🌐 **Let's Connect!**
+### **Let's Connect!**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-gupta-data-science/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabhids@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/the.frenzied.kid/)
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/abhi-gupta-data-science/)
+[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:iamabhids@gmail.com)
+[![LeetCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg)](https://leetcode.com/u/CodewithAvii/)
 
 </div>
+
 
 ---
 
