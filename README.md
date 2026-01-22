@@ -33,7 +33,7 @@ class DataScientist:
     def current_focus(self):
         return {
             "building": "Production RAG Pipelines",
-            "learning": "LangGraph & Spacy",
+            "learning": "LangGraph & GenAI",
             "exploring": "MCP-Style Context Control"
         }
 
