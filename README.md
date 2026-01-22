@@ -49,7 +49,7 @@ class DataScientist:
 ### **Tech Arsenal**
 
 <details open>
-<summary><b>💻 Languages & Core</b></summary>
+<summary><b>Languages & Core</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
