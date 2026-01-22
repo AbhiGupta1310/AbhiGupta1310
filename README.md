@@ -43,34 +43,6 @@ class DataScientist:
 
 <br clear="both">
 
----
-
-### **What I'm Building**
-
-<table>
-<tr>
-<td width="50%">
-
-#### **AI & Machine Learning**
-
-- **RAG Pipelines** - Document ingestion, vector search, context-aware responses
-- **NLP Systems** - Text processing, embeddings, transformer models
-- **ML Models** - Classification, regression, feature engineering
-- **LLM Applications** - Prompt engineering, hallucination mitigation
-
-</td>
-<td width="50%">
-
-#### ⚡ **Backend & Deployment**
-
-- **FastAPI Services** - RESTful APIs, Pydantic validation
-- **Database Design** - SQL, NoSQL, vector databases
-- **Model Serving** - LLM APIs, MCP orchestration
-- **Production Systems** - Scalable AI backends
-
-</td>
-</tr>
-</table>
 
 ---
 
