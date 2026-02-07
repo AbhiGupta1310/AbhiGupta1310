@@ -162,35 +162,6 @@ class DataScientist:
 </picture>
 ---
 
-### LLM Systems Engineering Path
-
-_Building scalable RAG, agent-based, and cloud-native AI systems_
-
-```mermaid
-graph LR
-    A[Python · ML · NLP] --> B[RAG Systems]
-    B --> C[Vector Databases<br/>FAISS · Chroma · Pinecone]
-    C --> D[AI Assistants & Chatbots]
-    D --> E[AI Agents<br/>LangGraph · Tools · Memory]
-    E --> F[Deep Learning & NLP<br/>spaCy · Transformers]
-    F --> G[Scalable AI<br/>PySpark · Data Pipelines]
-    G --> H[Cloud & Deployment<br/>FastAPI · GCP]
-    H --> I[Open Source & Research]
-    I --> J[AI Engineer / Applied Scientist]
-
-    style A fill:#00f7ff,stroke:#00f7ff,color:#000
-    style B fill:#00f7ff,stroke:#00f7ff,color:#000
-    style C fill:#00f7ff,stroke:#00f7ff,color:#000
-    style D fill:#00f7ff,stroke:#00f7ff,color:#000
-    style E fill:#00f7ff,stroke:#00f7ff,color:#000
-    style F fill:#00f7ff,stroke:#00f7ff,color:#000
-    style G fill:#00f7ff,stroke:#00f7ff,color:#000
-    style H fill:#00f7ff,stroke:#00f7ff,color:#000
-    style I fill:#00f7ff,stroke:#00f7ff,color:#000
-    style J fill:#ff006e,stroke:#ff006e,color:#fff
-
-```
-
 ### What I’m Actively Engineering
 
 - Architecting **production-grade RAG systems** (retrieval, grounding, evaluation)
