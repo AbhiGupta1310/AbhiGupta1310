@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I%20am%20Abhi%20👋&fontAlignY=32&desc=In%20God%20We%20Trust,%20All%20Others%20Bring%20Data&descAlignY=60&descSize=26&animation=twinkling"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Building+RAG+Systems+%26+LLM+Pipelines;NLP+Enthusiast+%7C+FastAPI+Developer;Turning+Data+into+Intelligence)](https://git.io/typing-svg)
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
