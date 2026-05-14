@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I%20am%20Abhi%20👋&fontAlignY=32&desc=In%20God%20We%20Trust,%20All%20Others%20Bring%20Data&descAlignY=60&descSize=26&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I%20am%20Abhi&fontAlignY=32&desc=In%20God%20We%20Trust,%20All%20Others%20Bring%20Data&descAlignY=60&descSize=26&animation=twinkling"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
@@ -15,13 +15,14 @@
 ### **About Me**
 
 ```python
-class DataScientist:
+class AIEngineer:
     def __init__(self):
         self.name = "Abhi Gupta"
         self.role = "AI Engineer | Data Scientist"
-        self.education = "Computer Science Student"
+        self.education = "B.E. Computer Science @ BITS Pilani"
         self.interests = [
-            "RAG Systems",
+            "Multi-Agent Systems",
+            "RAG Pipelines",
             "LLM Orchestration",
             "NLP & Transformers",
             "Vector Databases",
@@ -30,8 +31,8 @@ class DataScientist:
 
     def current_focus(self):
         return {
-            "building": "Production RAG Pipelines",
-            "learning": "LangGraph & GenAI",
+            "building": "Production-grade RAG & Agentic Systems",
+            "learning": "LangGraph, LangSmith & GenAI",
             "exploring": "MCP-Style Context Control"
         }
 
@@ -40,7 +41,6 @@ class DataScientist:
 ```
 
 <br clear="both">
-
 
 ---
 
@@ -60,29 +60,44 @@ class DataScientist:
 </details>
 
 <details open>
-<summary><b>Data Science & ML</b></summary>
+<summary><b>AI & LLM Engineering</b></summary>
 <br>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
+![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-4CAF50?style=for-the-badge)
 
 </details>
 
 <details open>
-<summary><b>NLP & LLM Stack</b></summary>
+<summary><b>ML & Deep Learning</b></summary>
 <br>
 
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-013243?style=for-the-badge&logo=python&logoColor=white)
+![RNN/LSTM](https://img.shields.io/badge/RNN%2FLSTM-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Spacy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>RAG & Vector Search</b></summary>
+<br>
+
 ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Vector_Embeddings-6A5ACD?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-4CAF50?style=for-the-badge&logo=database&logoColor=white)
+![BGE Embeddings](https://img.shields.io/badge/BGE_Embeddings-6A5ACD?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-FF6B6B?style=for-the-badge)
 
 </details>
 
@@ -106,20 +121,42 @@ class DataScientist:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>Tools & Platform</b></summary>
+<summary><b>MLOps & DevOps</b></summary>
 <br>
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
+
+---
+
+### **What I'm Actively Engineering**
+
+- Architecting **autonomous multi-agent systems** with LangGraph (planning, parallelism, memory, control flow)
+- Building **production-grade RAG pipelines** with retrieval grounding and LangSmith evaluation
+- Shipping **end-to-end NLP APIs** with FastAPI: model to service to user
+- Engineering **model-agnostic LLM backends** via OpenRouter for cost and latency optimization
+- Orchestrating **LLM context and tools** using MCP-style patterns
+
+---
+
+### **Certifications**
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Machine Learning Specialization | Stanford & DeepLearning.AI (Coursera) | Oct 2025 |
+| Data Science Specialization | IBM (Coursera) | Aug 2025 |
+| Google Analytics Certification | Google Skillshop | Jun 2025 |
 
 ---
 
@@ -142,8 +179,6 @@ class DataScientist:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiGupta1310&theme=radical)
 
-<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=AbhiGupta1310&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true) -->
-
 </div>
 
 ---
@@ -158,19 +193,10 @@ class DataScientist:
   <img alt="pacman contribution graph" 
        src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
 </picture>
----
-
-### What I’m Actively Engineering
-
-- Architecting **production-grade RAG systems** (retrieval, grounding, evaluation)
-- Designing **agent workflows with LangGraph** (tools, memory, control flow)
-- Pushing **NLP beyond basics** using spaCy for real-world text pipelines
-- Shipping **end-to-end NLP APIs** with FastAPI (model → service → user)
-- Orchestrating **LLM context & tools** using MCP-style patterns
 
 ---
 
-### **Let's Connect!**
+### **Let's Connect**
 
 <div align="center">
 
@@ -181,16 +207,15 @@ class DataScientist:
 
 </div>
 
-
 ---
 
 <div align="center">
 
-### 💭 _"Analyzing today, Predicting tomorrow!"_
+_"Analyzing today, Predicting tomorrow!"_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbhiGupta1310&label=Profile%20Views&color=00f7ff&style=for-the-badge)
 
-**⭐ Thanks for visiting! Star my repos if you find them helpful ⭐**
+**Thanks for visiting! Star my repos if you find them helpful.**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
