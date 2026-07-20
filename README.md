@@ -14,7 +14,7 @@
 
 <h6 align="left">About Me</h6>
 
-- 🎓 I'm a Computer Science student at *BITS Pilani*
+- 🎓 I'm a Computer Science student at **BITS Pilani**
 - 👋 [my space](https://abhi-gupta.me)
 - 🔭 I'm currently interning at [Pathnovo](https://pathnovo.com/) — AI agents that actually understand engineering documents
 - 🌱 I'm currently learning **System Design, Distributed Systems**
@@ -24,66 +24,83 @@
 
 <br>
 
+<table align="center">
+<tr>
+<td align="center" valign="top" width="50%">
+
 <h6 align="center">Languages</h6>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python" title="Python" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="SQL" title="SQL" />
 </p>
 
-<br><br>
+</td>
+<td align="center" valign="top" width="50%">
 
 <h6 align="center">LLM Providers & Platforms</h6>
 <p align="center">
-<img src="assets/anthropic.webp" width="64" height="64" alt="Anthropic" title="Anthropic" />&nbsp;&nbsp;
-<img src="assets/openai.webp" width="64" height="64" alt="OpenAI" title="OpenAI" />&nbsp;&nbsp;
-<img src="assets/gemini-color.webp" width="64" height="64" alt="Gemini" title="Gemini" />&nbsp;&nbsp;
-<img src="assets/openrouter-color.svg" width="64" height="64" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;
+<img src="assets/anthropic.webp" width="64" height="64" alt="Anthropic" title="Anthropic" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/openai.webp" width="64" height="64" alt="OpenAI" title="OpenAI" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/gemini-color.webp" width="64" height="64" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/openrouter-color.svg" width="64" height="64" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/vllm-color.svg" width="64" height="64" alt="vLLM" title="vLLM" />
 </p>
 
-<br><br>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
 
 <h6 align="center">Agentic AI & Orchestration</h6>
 <p align="center">
-<img src="assets/langchain-color.svg" width="64" height="64" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
-<img src="assets/langgraph.webp" width="64" height="64" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;
-<img src="assets/langsmith.webp" width="64" height="64" alt="LangSmith" title="LangSmith" />&nbsp;&nbsp;
-<img src="assets/langfuse-color.svg" width="64" height="64" alt="LangFuse" title="LangFuse" />&nbsp;&nbsp;
+<img src="assets/langchain-color.svg" width="64" height="64" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/langgraph.webp" width="64" height="64" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/langsmith.webp" width="64" height="64" alt="LangSmith" title="LangSmith" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/langfuse-color.svg" width="64" height="64" alt="LangFuse" title="LangFuse" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/Mcp%20Server.svg" width="64" height="64" alt="MCP" title="Model Context Protocol" />
 </p>
 
-<br><br>
+</td>
+<td align="center" valign="top" width="50%">
 
 <h6 align="center">Vector DBs & Knowledge Graphs</h6>
 <p align="center">
-<img src="assets/Qdrant-Icon--Streamline-Svg-Logos.svg" width="64" height="64" alt="Qdrant" title="Qdrant" />&nbsp;&nbsp;
-<img src="assets/weaviate.svg" width="64" height="64" alt="Weaviate" title="Weaviate" />&nbsp;&nbsp;
+<img src="assets/Qdrant-Icon--Streamline-Svg-Logos.svg" width="64" height="64" alt="Qdrant" title="Qdrant" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/weaviate.svg" width="64" height="64" alt="Weaviate" title="Weaviate" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/New4j.svg" width="64" height="64" alt="Neo4j" title="Neo4j" />
 </p>
 
-<br><br>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
 
 <h6 align="center">Backend & Data</h6>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" title="React" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="64" height="64" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" title="Redis" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="64" height="64" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" title="Redis" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=kafka" width="64" height="64" alt="Apache Kafka" title="Apache Kafka" />
 </p>
 
-<br><br>
+</td>
+<td align="center" valign="top" width="50%">
 
 <h6 align="center">DevOps & Cloud</h6>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" title="Docker" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" title="AWS" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=githubactions" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" title="Git" />
 </p>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -116,9 +133,9 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/the.frenzied.kid/"><img src="https://skillicons.dev/icons?i=instagram" width="64" height="64" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhi-gupta-data-science/"><img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:iamabhids@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" alt="Gmail" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/the.frenzied.kid/"><img src="https://skillicons.dev/icons?i=instagram" width="64" height="64" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhi-gupta-data-science/"><img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:iamabhids@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/CodewithAvii/"><img src="assets/leetcode.svg" width="64" height="64" alt="LeetCode" /></a>
 
 </div>
