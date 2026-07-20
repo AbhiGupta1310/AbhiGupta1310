@@ -173,15 +173,6 @@ class AIEngineer:
 
 ---
 
-### **Contribution Journey**
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiGupta1310&theme=radical)
-
-</div>
-
----
 
 ### **Contributions Pacman**
 
