@@ -24,7 +24,7 @@
 
 <br>
 
-<h6 align="center">Languages</h6>
+<h3 align="center">Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python" title="Python" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
@@ -35,7 +35,7 @@
 
 <br><br>
 
-<h6 align="center">LLM Providers & Platforms</h6>
+<h3 align="center">LLM Providers & Platforms</h3>
 <p align="center">
 <img src="assets/anthropic.webp" width="64" height="64" alt="Anthropic" title="Anthropic" />&nbsp;&nbsp;
 <img src="assets/openai.webp" width="64" height="64" alt="OpenAI" title="OpenAI" />&nbsp;&nbsp;
@@ -46,7 +46,7 @@
 
 <br><br>
 
-<h6 align="center">Agentic AI & Orchestration</h6>
+<h3 align="center">Agentic AI & Orchestration</h3>
 <p align="center">
 <img src="assets/langchain-color.svg" width="64" height="64" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
 <img src="assets/langgraph.webp" width="64" height="64" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;
@@ -57,7 +57,7 @@
 
 <br><br>
 
-<h6 align="center">Vector DBs & Knowledge Graphs</h6>
+<h3 align="center">Vector DBs & Knowledge Graphs</h3>
 <p align="center">
 <img src="assets/Qdrant-Icon--Streamline-Svg-Logos.svg" width="64" height="64" alt="Qdrant" title="Qdrant" />&nbsp;&nbsp;
 <img src="assets/weaviate.svg" width="64" height="64" alt="Weaviate" title="Weaviate" />&nbsp;&nbsp;
@@ -66,7 +66,7 @@
 
 <br><br>
 
-<h6 align="center">Backend & Data</h6>
+<h3 align="center">Backend & Data</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" title="React" />&nbsp;&nbsp;
@@ -77,7 +77,7 @@
 
 <br><br>
 
-<h6 align="center">DevOps & Cloud</h6>
+<h3 align="center">DevOps & Cloud</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" title="Docker" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" title="AWS" />&nbsp;&nbsp;
