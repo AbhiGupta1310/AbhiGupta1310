@@ -24,7 +24,7 @@
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0" align="center">
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="95%">
 <tr>
 <td align="center" valign="top" width="50%">
 
