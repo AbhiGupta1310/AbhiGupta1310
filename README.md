@@ -1,148 +1,210 @@
 <div align="center">
 
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=42&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Abhi;AI+Engineer;Building+AI+Products" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I%20am%20Abhi&fontAlignY=32&desc=In%20God%20We%20Trust,%20All%20Others%20Bring%20Data&descAlignY=60&descSize=26&animation=twinkling"/>
 </p>
 
-
-<img align="right" src="https://komarev.com/ghpvc/?username=AbhiGupta1310&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
+---
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<h6 align="left">About Me</h6>
+### **About Me**
 
-- 🎓 I'm a Computer Science student at **BITS Pilani**
-- 👋 [my space](https://abhi-gupta.me)
-- 🔭 I'm currently interning at [Pathnovo](https://pathnovo.com/) — AI agents that actually understand engineering documents
-- 🌱 I'm currently learning **System Design, Distributed Systems**
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Abhi Gupta"
+        self.role = "AI Engineer | Data Scientist"
+        self.education = "B.E. Computer Science @ BITS Pilani"
+        self.interests = [
+            "Multi-Agent Systems",
+            "RAG Pipelines",
+            "LLM Orchestration",
+            "NLP & Transformers",
+            "Vector Databases",
+            "Model Context Protocol"
+        ]
 
+    def current_focus(self):
+        return {
+            "building": "Production-grade RAG & Agentic Systems",
+            "learning": "LangGraph, LangSmith & GenAI",
+            "exploring": "MCP-Style Context Control"
+        }
+
+    def future_goals(self):
+        return "Applied AI Engineer solving real-world problems"
+```
+
+<br clear="both">
+
+---
+
+### **Tech Arsenal**
+
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>AI & LLM Engineering</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
+![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-4CAF50?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>ML & Deep Learning</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-013243?style=for-the-badge&logo=python&logoColor=white)
+![RNN/LSTM](https://img.shields.io/badge/RNN%2FLSTM-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Spacy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>RAG & Vector Search</b></summary>
+<br>
+
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-4CAF50?style=for-the-badge&logo=database&logoColor=white)
+![BGE Embeddings](https://img.shields.io/badge/BGE_Embeddings-6A5ACD?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-FF6B6B?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>Backend & Frameworks</b></summary>
+<br>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>MLOps & DevOps</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</details>
+
+---
+
+### **What I'm Actively Engineering**
+
+- Architecting **autonomous multi-agent systems** with LangGraph (planning, parallelism, memory, control flow)
+- Building **production-grade RAG pipelines** with retrieval grounding and LangSmith evaluation
+- Shipping **end-to-end NLP APIs** with FastAPI: model to service to user
+- Engineering **model-agnostic LLM backends** via OpenRouter for cost and latency optimization
+- Orchestrating **LLM context and tools** using MCP-style patterns
+
+---
+
+### **Certifications**
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Machine Learning Specialization | Stanford & DeepLearning.AI (Coursera) | Oct 2025 |
+| Data Science Specialization | IBM (Coursera) | Aug 2025 |
+| Google Analytics Certification | Google Skillshop | Jun 2025 |
+
+---
+
+### **GitHub Analytics**
 
 <div align="center">
-
-<br>
-
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-<tr>
-<td align="center" valign="top" width="50%">
-
-<h6 align="center">Languages</h6>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="SQL" title="SQL" />
-</p>
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<h6 align="center">LLM Providers & Platforms</h6>
-<p align="center">
-<img src="assets/anthropic.webp" width="64" height="64" alt="Anthropic" title="Anthropic" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/openai.webp" width="64" height="64" alt="OpenAI" title="OpenAI" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/gemini-color.webp" width="64" height="64" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/openrouter-color.svg" width="64" height="64" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/vllm-color.svg" width="64" height="64" alt="vLLM" title="vLLM" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
-<h6 align="center">Agentic AI & Orchestration</h6>
-<p align="center">
-<img src="assets/langchain-color.svg" width="64" height="64" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/langgraph.webp" width="64" height="64" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/langsmith.webp" width="64" height="64" alt="LangSmith" title="LangSmith" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/langfuse-color.svg" width="64" height="64" alt="LangFuse" title="LangFuse" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/Mcp%20Server.svg" width="64" height="64" alt="MCP" title="Model Context Protocol" />
-</p>
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<h6 align="center">Vector DBs & Knowledge Graphs</h6>
-<p align="center">
-<img src="assets/Qdrant-Icon--Streamline-Svg-Logos.svg" width="64" height="64" alt="Qdrant" title="Qdrant" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/weaviate.svg" width="64" height="64" alt="Weaviate" title="Weaviate" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/New4j.svg" width="64" height="64" alt="Neo4j" title="Neo4j" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
-<h6 align="center">Backend & Data</h6>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="64" height="64" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" title="Redis" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kafka" width="64" height="64" alt="Apache Kafka" title="Apache Kafka" />
-</p>
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<h6 align="center">DevOps & Cloud</h6>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=githubactions" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" title="Git" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbhiGupta1310&layout=compact&theme=transparent&hide_border=true" height="170" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhiGupta1310&theme=transparent&hide_border=true" />
+</div>
+
+---
 
 
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbhiGupta1310&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AbhiGupta1310&theme=transparent&hide_border=false" height="130" alt="GitHub Streak" />
-</div> -->
-
-
-
-<h6 align="center">Contributions Pacman</h6>
+### **Contributions Pacman**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
+  <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: light)" 
           srcset="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
+  <img alt="pacman contribution graph" 
        src="https://raw.githubusercontent.com/AbhiGupta1310/AbhiGupta1310/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
-
-<h6 align="center">Let's Connect</h6>
+### **Let's Connect**
 
 <div align="center">
 
-<a href="https://www.instagram.com/the.frenzied.kid/"><img src="https://skillicons.dev/icons?i=instagram" width="64" height="64" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhi-gupta-data-science/"><img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:iamabhids@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/CodewithAvii/"><img src="assets/leetcode.svg" width="64" height="64" alt="LeetCode" /></a>
+[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/the.frenzied.kid/)
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/abhi-gupta-data-science/)
+[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:iamabhids@gmail.com)
+[![LeetCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg)](https://leetcode.com/u/CodewithAvii/)
 
 </div>
 
-
+---
 
 <div align="center">
+
+_"Analyzing today, Predicting tomorrow!"_
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbhiGupta1310&label=Profile%20Views&color=00f7ff&style=for-the-badge)
 
 **Thanks for visiting! Star my repos if you find them helpful.**
 
