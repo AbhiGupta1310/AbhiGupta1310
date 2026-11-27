@@ -16,7 +16,7 @@
 
 - 🎓 I'm a Computer Science student at *BITS Pilani*
 - 👋 [my space](https://abhi-gupta.me)
-- 🔭 I'm currently interning at [Pathnovo](https://pathnovo.com/) — AI agents that actually understand engineering documents
+- 🔭 ex intern at [Pathnovo](https://pathnovo.com/) — AI agents that actually understand engineering documents
 - 🌱 I'm currently learning **System Design, Distributed Systems**
 
 
